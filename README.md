@@ -1,7 +1,6 @@
 ### Hi there 👋
+I'm A web developer focused on VueJS framework.
 
-I'm Chen.
-❤️ Web Develpoment
 
 <!--
 **chenmu10/chenmu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
