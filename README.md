@@ -1,9 +1,10 @@
 ### Hi There 👋
-I'm A Web Developer. 
+I'm a Web Developer. 
 
 
-- 🔭 I’m currently working on [ANYWAY](https://github.com/hasadna/anyway-newsflash-infographics) traffic accidents inforgraphics project.
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on [Eventify Chrome Extension](https://github.com/chenmu10/eventify-wiz-extension#readme).
+- 🌱 Currently learning **React**
+- 💬 Feel free to reach out.
 
 
 <!--
