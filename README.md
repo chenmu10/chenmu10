@@ -1,10 +1,12 @@
 ### Hi There 👋
 I'm a Web Developer. 
 
+🔭 Mostly coding in JavaScript+TypeScript.
 
-- 🔭 Mostly coding in Javascript+Typescript
-- 🌱 Currently learning **React**
-- 💬 Feel free to reach out.
+🌱 Currently learning **React**.
+
+💬 Feel free to reach out.
+
 
 
 <!--
