@@ -2,7 +2,7 @@
 I'm a Web Developer. 
 
 
-- 🔭 I’m currently working on [Eventify Chrome Extension](https://github.com/chenmu10/eventify-wiz-extension#readme).
+- 🔭 Mostly coding in Javascript+Typescript
 - 🌱 Currently learning **React**
 - 💬 Feel free to reach out.
 
