@@ -1,9 +1,7 @@
 ### Hi There 👋
 I'm a Web Developer. 
 
-🔭 Mostly coding in JavaScript+TypeScript.
-
-🌱 Working in **Vue.js**.
+🔭 Mostly coding in Vue.js.
 
 💬 Feel free to reach out.
 
