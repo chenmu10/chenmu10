@@ -3,7 +3,7 @@ I'm a Web Developer.
 
 🔭 Mostly coding in JavaScript+TypeScript.
 
-🌱 Currently learning **React**.
+🌱 Working in **Vue.js**.
 
 💬 Feel free to reach out.
 
